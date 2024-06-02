@@ -21,9 +21,9 @@ import (
 
 const(
 	Version       = "1.0.1"
-	AWS_S3_REGION = ""
-	AWS_S3_BUCKET = ""
-	AWS_S3_PREFIX = ""
+	AWS_S3_REGION = "eu-north-1"
+	AWS_S3_BUCKET = "jyoti-go-database"
+	AWS_S3_PREFIX = "Users"
 
 )
 
