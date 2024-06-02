@@ -40,7 +40,7 @@ AWS_S3_PREFIX=your-prefix
 Creating a Database Instance
 To create a new instance of Candy DB, use the following code:
 ```bash
-db, err := New(nil)
+db, err := camdyDB.New(nil)
 if err != nil {
     fmt.Printf("Error: %s\n", err)
 }
