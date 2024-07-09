@@ -14,14 +14,14 @@
 To use CandyDB in your Go projects, you can easily include it as a module:
 
 ```bash
-go get github.com/your-username/CandyDB
+go get github.com/jyotiprakashh/CandyDB
 ```
 
 
 Then, import the package in your code:
 ```bash
 import (
-    "github.com/your-username/CandyDB"
+    "github.com/jyotiprakashh/CandyDB"
 )
 ```
 
