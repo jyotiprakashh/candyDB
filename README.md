@@ -1,5 +1,7 @@
 # CandyDB
 
+Candy DB is a lightweight, cloud-based NoSQL database that provides a simple and efficient way to store and retrieve data in Amazon S3. Its Go-based implementation ensures high performance and scalability, making it suitable for a wide range of applications.
+
 ## Features
 
 - Simple and intuitive API for CRUD operations (Create, Read, Update, Delete)
@@ -116,6 +118,3 @@ Run the Application:
 go run main.go
 ```
 
-# Conclusion
-
-Candy DB is a lightweight, cloud-based NoSQL database that provides a simple and efficient way to store and retrieve data in Amazon S3. Its Go-based implementation ensures high performance and scalability, making it suitable for a wide range of applications.
